@@ -1,4 +1,4 @@
-# XTransferCDR: A Revolutionary Generative Framework for Feature Decoupling and Cross-Domain Transferable Representation Learning.
+# Learning Cross-Domain Representations for Transferable Drug Perturbations on Single-Cell Transcriptional Responses
 
 
 
