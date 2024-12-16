@@ -1,11 +1,5 @@
 # Learning Cross-Domain Representations for Transferable Drug Perturbations on Single-Cell Transcriptional Responses
 
-
-
-## Introduction
-
-**XTransferCDR** is a cross-domain transfer learning framework to predict cellular response at single-cell level.
-
 ## Model architecture
 
 ![framework](framework.png)
